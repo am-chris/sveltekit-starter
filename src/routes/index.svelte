@@ -19,7 +19,7 @@
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		<div>to your new<br />SvelteKit app</div>
 	</h1>
 
 	<h2>
